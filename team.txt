@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Sam Spencer
 Brian
-=======
-Brian
->>>>>>> d0364f498f8a1783bda6d676bc4fe26c3242086d
+
